@@ -1,4 +1,4 @@
-The details about the model can be found on the following paer:
+The details about the model can be found in the following paer:
 https://scholar.smu.edu/cgi/viewcontent.cgi?article=1019&context=datasciencereview
 
 
