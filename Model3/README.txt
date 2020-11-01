@@ -6,4 +6,5 @@ The code is implemented by using the train_accounts.py code in the following lin
 https://github.com/ji10bhatt/Capstone-Social-Media-Bot-Detection
 
 
-The modules in the requirements.txt have to be installed. install_requirements.ipynb can be used to install in an automated way. 
+The modules in the requirements.txt have to be installed. install_requirements.ipynb can be used to install in an automated way.
+Do not forget the run your codes as administrator.
