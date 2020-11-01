@@ -1,15 +1,8 @@
-*********
-*MODEL 1*
-*********
-
-
 The paper can be found in: https://arxiv.org/pdf/1703.04482.pdf
 
 
 The DDNA-Toolbox can be found in: https://github.com/WAFI-CNR/ddna-toolbox/blob/master/requirements.txt
-
-
-or simply you can install the requirements and run the following commands:
+Or simply you can install the requirements and run the following commands:
 git clone https://github.com/WAFI-CNR/ddna-toolbox
 cd ddna-toolbox
 git clone https://github.com/WAFI-CNR/glcr
