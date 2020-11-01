@@ -7,4 +7,4 @@ https://github.com/ji10bhatt/Capstone-Social-Media-Bot-Detection
 
 
 The modules in the requirements.txt have to be installed. install_requirements.ipynb can be used to install in an automated way.
-Do not forget the run your codes as administrator.
+Do not forget to run your codes as administrator.
